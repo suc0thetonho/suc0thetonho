@@ -1,6 +1,6 @@
 ### Olá, Eu sou Antonio 👋
 
-### Linguagens do meu dia a dia
+### Tecnologias do meu dia a dia
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
