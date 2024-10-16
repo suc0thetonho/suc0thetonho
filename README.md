@@ -1,5 +1,5 @@
 
-<img width=30%  src="https://i.giphy.com/hVEBWRInEvNOEVS18i.webp"/>
+<img width=20%  src="https://i.giphy.com/hVEBWRInEvNOEVS18i.webp"/>
     
 <img align="right" height="150" src="https://i.imgur.com/uZSXU5h.gif"/>
 
