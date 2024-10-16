@@ -1,5 +1,10 @@
+
+
+<img align="right" height="150" src="https://i.imgur.com/uZSXU5h.gif"/>
+
 ### Olá, Eu sou Antonio 👋
     Atualmente estou cursando Engenharia de Software
+    
 
 ### 📚EDUCAÇÃO
 
