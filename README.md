@@ -27,6 +27,6 @@
 
 
 ### 🐍SNAKE GAME
-<div align = "center">
-    ![snake gif](https://github.com/suc0thetonho/suc0thetonho/blob/output/github-snake-dark.svg)
-</div>
+
+![snake gif](https://github.com/suc0thetonho/suc0thetonho/blob/output/github-snake-dark.svg)
+
