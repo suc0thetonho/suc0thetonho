@@ -25,7 +25,8 @@
 ### 📫CONTATO
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-carlos-8aa9142a8/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoniocvsouza0@gmail.com)
 
-<center>
+
 ### 🐍SNAKE GAME
-![snake gif](https://github.com/suc0thetonho/suc0thetonho/blob/output/github-snake-dark.svg)
-</center>
+<div align = "center">
+    ![snake gif](https://github.com/suc0thetonho/suc0thetonho/blob/output/github-snake-dark.svg)
+</div>
